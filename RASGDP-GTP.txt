@@ -1,6 +1,6 @@
 <?xml version='1.0'?>
 <model xmlns="http://www.cellml.org/cellml/1.0#" xmlns:cmeta="http://www.cellml.org/metadata/1.0#" cmeta:id="bhalla_model_1999" name="hatakeyama_model_2003">
-<component component_ref="geometry" name="geometry"/>
+
     </import>
     <!--
 *******************************************************
