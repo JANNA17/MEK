@@ -1,4 +1,5 @@
 model name="HLA_C_receptor" >
+<model name="HLA_C_receptor" xmlns="http://www.cellml.org/cellml/1.1#" xmlns:cellml="http://www.cellml.org/cellml/1.1#">
     <!--
 
 //VALUE OF KF1 still finding//
